@@ -1,0 +1,5 @@
+# OpenWeatherMap API Key
+weather_api_key = "cac9be87b29fd01d9c2b7af91f13d74c"
+
+# Geoapify API Key
+geoapify_key = "dcfc61b744da44158a2e984eff0078cf"
